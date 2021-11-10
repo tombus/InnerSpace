@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+It was designed as a tool for teachers, parents, and professionals to help children that have difficulties expressing themselves.
+
+
 ## Prerequisites
 
 You must have NodeJS and npm installed on your system.
